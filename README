@@ -1,0 +1,10 @@
+bootBF is a brainfuck interpreter that fits in the 512 bytes of the boot sector.
+
+Compiling and running
+~~~~~~~~~~~~~~~~~~~~~
+You will need nasm to assemble the interpreter and qemu to run it
+
+    $ # Assemble the program
+    $ make
+    $ # Run it
+    $ make run
