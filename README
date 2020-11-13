@@ -1,4 +1,5 @@
 bootBF is a brainfuck interpreter that fits in the 512 bytes of the boot sector.
+NOTE: This is a mirror from https://git.h3liu.ml/matthilde/bootbf so I can show it up on my GH profile.
 
 Compiling and running
 ~~~~~~~~~~~~~~~~~~~~~
